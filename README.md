@@ -1,0 +1,2 @@
+# Travelmate-Uttarakhand-Tourism-Recommendation-System
+ Travelmate Uttarakhand is a web-based tourism recommendation system that help tourists find destinations based on budget, time, interests, and season. It uses DSA like searching,sorting,hash maps, priority queues, graphs, and Dijkstra's algorithm for recommendations and route planning. Built with HTML, CSS, JavaScript, Python Flask, SQLite and C.
